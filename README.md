@@ -5,6 +5,10 @@ Repositório destinado ao participantes do curso Git/GitHub da Fatec Jundiaí - 
 1) Desenvolver uma página html nameada como "nome_sobrenome.html" contendo as seguintes informações:
   - Nome Completo
   - Curso
+  - Formação Acadêmica
+  - Área que possui mais afinidade
+  - Sua especialidade
+  - Outras atividades
   - Link da sua página no Git Pages
   - No final, deve incluir um link para a página "index.html"
 
